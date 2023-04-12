@@ -1,0 +1,2 @@
+# cryptnote
+CryptNote - Encryption service
