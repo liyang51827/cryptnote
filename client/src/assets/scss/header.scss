@@ -1,0 +1,64 @@
+.app {
+  .header {
+    background-image: linear-gradient(90deg, #726c74, #d1cfc8, #726c74);
+    min-height: 64px;
+  }
+  .dashboard-header {
+    background-image: linear-gradient(to right, #ffffff, #ffffff);
+    min-height: 64px;
+  }
+}
+  
+.top-nav { 
+  .top-nav-btn {
+    color: $night-color;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: larger;
+  }
+}
+
+.logo {
+  .logo-text {
+    color: $night-color;
+    font-weight: bolder;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  .logo-png {
+    margin-top: 5px;
+    width: 32px;
+  }
+  .header-logo {
+    text-decoration: none;
+  }
+}
+
+.toggle-menu-btn {
+  font-size: 45px !important;
+  font-weight: bolder;
+  color: $night-color;
+}
+
+.toggle-menu {
+  padding: 60px 45px;
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient($degree-1, rgba($color: $snow-color, $alpha: $alpha-1) 20%, rgba($color: $night-color, $alpha: $alpha-2));
+  .toggle-menu-item {
+    font-size: 25px;
+    text-decoration: none;
+    color: $night-color;
+  }
+  .close-toggle-btn {
+    position: absolute;
+    top: 10px;
+    right: 60px;
+    z-index: 11;
+    padding: -15px 0px;
+    text-decoration: none;
+    font-size: 56px;
+    cursor: pointer;
+    color: $night-color;
+  }
+}

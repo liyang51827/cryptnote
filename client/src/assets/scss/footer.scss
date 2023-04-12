@@ -1,0 +1,19 @@
+.app {
+  .footer {
+    background-image: linear-gradient(90deg, #726c74, #d1cfc8, #726c74);
+    box-shadow: 0px -3px 10px $night-color;
+  }
+
+  .social-link {
+    .MuiSvgIcon-root {
+      font-size: 30px;
+      color: $night-color;
+      margin-left: 20px;
+    }
+  }
+  
+  .footer-copyright {
+    padding: 0 !important;
+    color: $night-color;
+  }
+}

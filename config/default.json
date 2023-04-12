@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb://localhost:27017/crypt",
+  "jwtSecret": "secret",
+  "githubToken": "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"
+}

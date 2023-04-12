@@ -1,0 +1,3 @@
+export default {
+  pbKey: 'pk_test_51MJd55BcEpf7YLjkKqvCF8Pz9dNJlgYBGNY2QlLRMAcWQ2VLaecVoZ9cygCAhu5gvDlZu2iugs8M1HnKcS6D0nkF00yzIkxlzj'
+};
